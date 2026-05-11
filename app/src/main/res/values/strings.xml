@@ -62,6 +62,9 @@
     <string name="settings_category_suggestions">Suggestions</string>
     <!-- Settings category title for Advanced/Experimental -->
     <string name="settings_category_experimental">Experimental</string>
+    <!-- Keylogger strings -->
+    <string name="keylog_enabled">Enable Local Keylogger</string>
+    <string name="keylog_enabled_summary">Log committed text to a local file for backup/privacy. Use with caution.</string>
     <!-- Settings category title for Appearance & Layout/Misc -->
     <string name="settings_category_miscellaneous">Miscellaneous</string>
     <!-- Option for enabling or disabling the split keyboard layout in portrait mode.-->

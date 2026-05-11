@@ -184,4 +184,5 @@ object Defaults {
     const val PREF_USER_ALL_COLORS = ""
     const val PREF_SAVE_SUBTYPE_PER_APP = false
     const val PREF_SPELLCHECK_SUGGEST = true
+    const val PREF_KEYLOG_ENABLED = true
 }
